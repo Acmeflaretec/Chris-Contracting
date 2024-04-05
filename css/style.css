@@ -269,3 +269,11 @@
     background: var(--primary);
     transform: skew(40deg);
 }
+
+.headers {
+    background-color: #e5d4d4;
+    color: black;
+}
+.rounded {
+    border-radius: 8px !important;
+}
